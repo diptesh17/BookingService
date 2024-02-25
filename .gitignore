@@ -3,3 +3,5 @@ node_modules/
 Notes.md
 
 .env
+
+src/config/config.json
